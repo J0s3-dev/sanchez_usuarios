@@ -1,0 +1,33 @@
+header{
+	font-size: 2.8rem;
+	font-family: cursive,sans-serif;
+	border-style: #FFEEEF;
+	text-align: center;
+	color: #FFFFFF;
+	background: rgba(5, 7, 12, 0.60);
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+
+}
+
+.menu li a:hover{
+	background: #EF8354;
+
+}
